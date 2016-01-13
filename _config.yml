@@ -1,0 +1,28 @@
+name: Mylesdeversphotograpghy
+favicon: null
+layout_spectrum: 0.6984556172974408
+typography_spectrum: 0.7393374084495008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.04686972009949386
+  lightness: 0.4742122970055789
+  saturation: 0.021936821518465877
+  rhythmicContrast: 0.8020957924891263
+purpose: []
